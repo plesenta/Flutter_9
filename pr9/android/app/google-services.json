@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682534682876",
+    "project_id": "praktich9",
+    "storage_bucket": "praktich9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682534682876:android:e00ca3e69ce7511f801779",
+        "android_client_info": {
+          "package_name": "com.example.pr9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682534682876-8nus0h4mu55djusoj21ihi09e667lgcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdubLLfkCZRRDnfhC3u5Mzh1RjUf12K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682534682876-8nus0h4mu55djusoj21ihi09e667lgcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
